@@ -1,0 +1,25 @@
+.navBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    padding-right: 1.4rem;
+    background: black;
+}
+
+h1 {
+    color: rgb(112, 233, 235);
+}
+
+.ghLink {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(112, 233, 235);
+}
+
+a:hover {
+    color: rgb(40, 230, 97);
+}

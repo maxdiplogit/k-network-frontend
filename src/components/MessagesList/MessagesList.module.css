@@ -1,0 +1,10 @@
+.messages {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.messageHeading {
+    padding-left: 2.9rem;
+    color: rgb(0, 226, 60)
+}
